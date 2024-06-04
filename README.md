@@ -22,9 +22,9 @@ cd HuggingFace-Tutorial
 docker build -t hf-tutorial .
 ```
 
-3.  Obtain Zsh into container
+3.  Run image as container
 ```
-docker exec -it hf-tutorial zsh
+docker run -i -t hf-tutorial /bin/bash
 ```
 
 ## Table of content
