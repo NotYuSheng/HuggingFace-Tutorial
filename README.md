@@ -2,7 +2,14 @@
 
 Tutorial Page: [site-link](https://huggingface.co/docs/transformers/en/quicktour)
 
-## Virtual Environment
+## Linux Docker Installation
+
+```
+apt-get update
+apt install docker.io 
+```
+
+## Usage
 
 1.  Clone this repository and navigate to LLaVA folder
 ```
