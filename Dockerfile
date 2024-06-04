@@ -10,6 +10,9 @@ COPY requirements.txt .
 # Run package manager
 RUN apt-get update
 
+# Install nano text editor
+RUN apt-get install nano -y
+
 # Upgrade pip
 RUN pip install --upgrade pip
 
