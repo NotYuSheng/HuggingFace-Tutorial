@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy the requirements file into the container
 COPY requirements.txt .
 
-# Run package manager
+# Update package lists
 RUN apt-get update
 
 # Install nano text editor
