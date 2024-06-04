@@ -1,4 +1,4 @@
-# Hugging face transformers tutorials
+# Hugging Face Transformers Tutorials
 
 Tutorial Page: [site-link](https://huggingface.co/docs/transformers/en/quicktour)
 
