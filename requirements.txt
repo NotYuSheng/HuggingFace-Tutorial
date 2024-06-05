@@ -6,3 +6,4 @@ torch
 SoundFile
 librosa
 Pillow
+pytesseract
