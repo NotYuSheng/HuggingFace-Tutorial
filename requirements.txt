@@ -4,3 +4,4 @@ evaluate
 accelerate
 torch
 SoundFile
+librosa
