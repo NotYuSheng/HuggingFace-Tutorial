@@ -10,8 +10,10 @@ COPY requirements.txt .
 # Update package lists
 RUN apt-get update
 
-# Install nano text editor
+# Install package dependencies
 RUN apt-get install nano -y
+RUN apt install tesseract-ocr 
+RUN apt install libtesseract-dev
 
 # Upgrade pip
 RUN pip install --upgrade pip
