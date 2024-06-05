@@ -5,3 +5,4 @@ accelerate
 torch
 SoundFile
 librosa
+Pillow
