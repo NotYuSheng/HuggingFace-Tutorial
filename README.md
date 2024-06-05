@@ -30,3 +30,5 @@ docker run -i -t hf-tutorial /bin/bash
 | Index | Script(s) | Description |
 | --- | --- | --- |
 | Exercise 1 | classifier.py | Sentiment-analysis to analyze and classify sentence as POSITIVE or NEGATIVE |
+| Exercise 2 | speech-recognizer.py | Extract text from speech |
+| Exercise 3 | classifier-french.py | Sentiment-analysis to analyze and classify sentence as POSITIVE or NEGATIVE (French) |
