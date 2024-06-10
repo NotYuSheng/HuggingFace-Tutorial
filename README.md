@@ -32,3 +32,5 @@ docker run -i -t hf-tutorial /bin/bash
 | 1 | classifier.py | Sentiment-analysis to analyze and classify sentence as POSITIVE or NEGATIVE |
 | 2 | speech-recognizer.py | Extract text from speech |
 | 3 | classifier-multilingual.py | Sentiment-analysis to analyze and classify sentence as POSITIVE or NEGATIVE for six languages (English, Dutch, German, French, Spanish, and Italian) |
+| 4 | visual-question.py | Image and text input, text response (Simple) |
+| 5 | document_answering.py | Image document analysis |
